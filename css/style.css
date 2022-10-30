@@ -1,0 +1,38 @@
+:root {
+  /* Start Main Colors */
+
+  --bg: #111;
+  --c1: rgb(255, 64, 96);
+  --c2: rgb(253, 67, 145);
+  --c3: #ff7e44;
+
+  /* End Main Colors */
+
+  /* Start Secondary Colors */
+
+  --c4: #00e599;
+  --c5: #ffd333;
+  --c6: #e52ee5;
+  --c7: #c34cff;
+  --c8: #00aaff;
+  --c9: #b2daff;
+
+  /* End Secondary Colors */
+
+  /* Start Color Opacity */
+  --o1: rgba(255, 64, 96, 0.9);
+  --o2: rgb(253, 67, 145, 0.9);
+  --o3: rgba(255, 127, 68, 0.9);
+  --o4: rgba(0, 229, 153, 0.9);
+  --o5: rgba(255, 211, 51, 0.9);
+  --o6: rgba(229, 46, 229, 0.9);
+  --o7: rgba(195, 76, 255, 0.9);
+
+  /* End Color Opacity */
+
+  /* Start Gradient */
+  --g1: linear-gradient(30deg, #ff4060 40%, #fd4391 80%, #ff7e44 100%);
+  /* End Gradient */
+  --font: #fff;
+  --strock: #616161;
+}
